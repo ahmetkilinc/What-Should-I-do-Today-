@@ -6,7 +6,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:background="@android:color/darker_gray"
+    android:background="#a3e6f5"
     android:orientation="vertical">
 
     <Button
@@ -46,6 +46,10 @@
         android:layout_height="49dp"
         android:layout_marginEnd="2dp"
         android:layout_marginStart="2dp"
+        android:fontFamily="@font/black_ops_one"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/dismiss" />
