@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">What Should I Do Today?</string>
+
+    <string name="internet_error">Some features of this app needs Internet Connection! Please provide some juice of internet and try again.</string>
+
+    <string name="answer1">What about going to the cinema?</string>
+    <string name="answer2">Watch illegally downloaded movies!!!</string>
+    <string name="answer3">Netflix?</string>
+    <string name="answer4">How about a new mobile game?</string>
+    <string name="answer5">Did you play this PC game? I think you will enjoy it.</string>
+    <string name="answer6">Wanne go shopping?</string>
+    <string name="answer7">Best friend hangout day!</string>
+    <string name="answer8">Go out for a drink, it helps.</string>
+    <string name="answer9">Maybe you should consider studying? Orrr just go to bed and dream about her/him ;).</string>
+    <string name="answer10">An evening walk in the park?</string>
+    <string name="answer11">Concert?</string>
+    <string name="answer12">The greatest idea of all time -> if you have a partner just have sex!!!</string>
+    <string name="answer13">Cook a meal just for yourself, or for the one you love.</string>
+
+    <string name="url_answer1">http://www.imdb.com/movies-in-theaters</string>
+    <string name="url_answer2">http://1337x.to/popular-movies</string>
+    <string name="url_answer3">https://www.netflix.com</string>
+    <string name="url_answer4">https://play.google.com/store/apps/category/GAME</string>
+    <string name="url_answer5">https://www.randomlists.com/random-video-games</string>
+    <string name="url_answer6">http://whereshouldishop.com</string>
+    <string name="url_answer7">https://www.lifehack.org/articles/money/fun-things-with-your-friends-without-spending-much.html</string>
+    <string name="url_answer8">https://www.wtfsigfd.com</string>
+    <string name="url_answer9">http://www.openuniversity.edu/courses</string>
+    <string name="url_answer10">https://www.tpl.org/blog/why-the-10-minute-walk</string>
+    <string name="url_answer11">https://www.jambase.com/shows</string>
+    <string name="url_answer12">http://endoftheinternet.com</string>
+    <string name="url_answer13">https://cooking.nytimes.com/topics/what-to-cook-this-week</string>
 </resources>

@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WhatShouldIDoToday.iml" filepath="$PROJECT_DIR$/WhatShouldIDoToday.iml" />
+      <module fileurl="file://$PROJECT_DIR$/What-Should-I-do-Today-.iml" filepath="$PROJECT_DIR$/What-Should-I-do-Today-.iml" />
+      <module fileurl="file://E:\git-clones\What-Should-I-do-Today-\WhatShouldIDoToday.iml" filepath="E:\git-clones\What-Should-I-do-Today-\WhatShouldIDoToday.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
