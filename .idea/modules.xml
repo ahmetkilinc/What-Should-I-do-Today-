@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/What-Should-I-do-Today-.iml" filepath="$PROJECT_DIR$/What-Should-I-do-Today-.iml" />
+      <module fileurl="file://D:\Ahmet\git-repo\What-Should-I-do-Today-\What-Should-I-do-Today-.iml" filepath="D:\Ahmet\git-repo\What-Should-I-do-Today-\What-Should-I-do-Today-.iml" />
       <module fileurl="file://E:\git-clones\What-Should-I-do-Today-\WhatShouldIDoToday.iml" filepath="E:\git-clones\What-Should-I-do-Today-\WhatShouldIDoToday.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Ahmet\git-repo\What-Should-I-do-Today-\app\app.iml" filepath="D:\Ahmet\git-repo\What-Should-I-do-Today-\app\app.iml" />
     </modules>
   </component>
 </project>

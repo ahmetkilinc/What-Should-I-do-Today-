@@ -72,6 +72,7 @@ public class MainActivity extends AppCompatActivity {
 
         setContentView(R.layout.activity_main);
 
+
         Random rand = new Random();
         final int  n = rand.nextInt(13) + 0;
 
@@ -101,6 +102,7 @@ public class MainActivity extends AppCompatActivity {
                 Button btnDismiss = (Button)popupView.findViewById(R.id.dismiss);
                 Button btnRefresh = popupView.findViewById(R.id.buttonRefresh);
                 final WebView wvActivity = (WebView) popupView.findViewById(R.id.webViewActivity);
+
 
                 WebSettings webSettings = wvActivity.getSettings();
                 webSettings.setJavaScriptEnabled(true);
@@ -149,9 +151,6 @@ public class MainActivity extends AppCompatActivity {
                 }
 
 
-
-
-
                 final TextView txtActivity = popupView.findViewById(R.id.textViewActivity);
 
                 txtActivity.setText(answers[n]);
@@ -164,15 +163,13 @@ public class MainActivity extends AppCompatActivity {
                         int  rnd = rand.nextInt(13) + 0;
                         txtActivity.setText(answers[rnd]);
 
-
-
                         if (activeNetworkInfo != null) {
 
                             wvActivity.setWebViewClient(new WebViewClient() {
 
                                 public boolean shouldOverrideUrlLoading(WebView view, String url) {
 
-                                    String url2 = "https://ahmetkilinc.net";
+                                    String url2 = "https://google.com";
 
                                     if (url != null && url.startsWith(url2)) {
 
